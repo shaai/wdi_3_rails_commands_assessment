@@ -16,8 +16,17 @@ What does the command in Question 2 do, exactly? What files are created, where a
 
 ### Question 4
 
-Now I want to make my database reflect the new model I created in Question 2. What command(s) should I type in the terminal?
+I want to create a database and make it reflect the new model I created in Question 2. What command(s) should I type in the terminal?
 
 ### Question 5
 
-Finally I want to look at the actual database that has been created. What command(s) should I type in the terminal?
+I want to look at the actual database that has been created. What command should I type in the terminal?
+
+### Question 6
+
+I want to see a list of all the URLs available in my app, along with the HTTP requests and controllers associated with them. What command should I type in the terminal? 
+
+### Question 7
+
+I have worked on my app and finally want to see it in action. What command should I type in the terminal, and where should I navigate to in my browser?
+
